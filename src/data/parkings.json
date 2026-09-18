@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Riva Pula", "lat": 44.8705, "lng": 13.8423, "pricePerHour": 2.0, "total": 100, "occupied": 80 },
+  { "id": 2, "name": "Karolina (Arena)", "lat": 44.8732, "lng": 13.8461, "pricePerHour": 1.5, "total": 150, "occupied": 40 },
+  { "id": 3, "name": "Flavijevska", "lat": 44.8745, "lng": 13.8505, "pricePerHour": 2.0, "total": 80, "occupied": 65 },
+  { "id": 4, "name": "Dobrilina", "lat": 44.8655, "lng": 13.8510, "pricePerHour": 1.2, "total": 120, "occupied": 30 },
+  { "id": 5, "name": "Marsovo Polje", "lat": 44.8620, "lng": 13.8480, "pricePerHour": 1.0, "total": 200, "occupied": 90 },
+  { "id": 6, "name": "Kandlerova", "lat": 44.8718, "lng": 13.8445, "pricePerHour": 2.5, "total": 60, "occupied": 55 }
+]
