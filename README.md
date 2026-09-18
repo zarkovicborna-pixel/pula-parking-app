@@ -16,3 +16,4 @@ Aplikacija za prikaz parkirališta u Puli s predikcijom popunjenosti, izračunom
 
 **Zaduženja po članu tima:**  
 * **Borna Žarković:** Inicijalizacija repozitorija, izrada Figma prototipa, razvoj frontenda (integracija Leaflet mape i GPS-a), logika izračuna vožnje i sučelje za plaćanje.
+*  **Antun Grgić:** Prikupljanje početnih podataka o parkiralištima i znamenitostima, izradu projektnih dijagrama i dokumentacije te snimanje video demonstracije aplikacije.
